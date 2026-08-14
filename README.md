@@ -1,2 +1,3 @@
 # Vislag
-Windows Audio Visualizer 
+## Easy To Setup
+### Free Windows Audio Visualizer 
